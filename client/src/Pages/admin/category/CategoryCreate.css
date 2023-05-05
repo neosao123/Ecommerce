@@ -1,0 +1,10 @@
+.action-btn{
+    float: right !important;
+    display: flex;
+    align-items: center;
+    align-content: center;
+}
+.c-count{    
+    max-width: max-content;
+    max-height: max-content;
+}  

@@ -1,0 +1,158 @@
+.header-login_register-menu{
+   direction: rtl;
+}
+.desktopheard{
+    width: 100%;
+}
+/* .main-title-header{
+    display: list-item;
+} */
+
+.bar-icon {
+    font-size: 29px;
+    margin: 13px;
+    color: #433b3b !important;
+}
+
+  
+  .header .ant-anchor-link {
+    padding: 0 20px;
+    line-height: 1.4;
+    /* position: relative; */
+  }
+  
+  
+  .bar-icon-scroll{
+    font-size: 29px;
+    margin: 13px;
+      color: black;
+  }
+  
+  .main-header-bg-scroll{
+    background-color: #fbfbfb;
+    scroll-behavior: smooth;
+    height: 93px;
+    z-index: 1 !important;
+  }
+
+
+.ant-drawer-content-wrapper{
+    width: 200px !important;
+
+}
+  
+/* > 576 px */
+@media only screen and (max-width: 576px){
+    .desktopheard {
+        display: none;
+       }
+       .mobileVisible {
+        display: block;
+       }
+
+ }
+ 
+ /* > 576 px */
+ @media only screen and (min-width: 576px){
+    .desktopheard {
+        display: none;
+       }
+       .mobileVisible {
+        display: block;
+       }
+
+ }
+ /* > 763 px */
+ @media only screen and (min-width: 763px){
+    .desktopheard {
+        display: none;
+       }
+       .mobileVisible {
+        display: block;
+       }
+}
+ /* > 619 px */
+ @media only screen and (min-width: 619px){
+    .desktopheard {
+        display: none;
+       }
+       .mobileVisible {
+        display: block;
+       }
+
+ }
+ /* > 768 px */
+ @media only screen and (min-width: 768px){
+    .desktopheard {
+        display: none;
+       }
+       .mobileVisible {
+        display: block;
+       }
+     
+ }
+ /* > 1049 px */
+ @media only screen and (min-width: 1049px){
+    .desktopheard {
+        display: block;
+       }
+       .mobileVisible {
+        display: none;
+       }
+
+ }
+ /* > 1200 px */
+ @media only screen and (min-width: 1200px){
+    .desktopheard {
+        display: block;
+       }
+       .mobileVisible {
+        display: none;
+       }
+
+ }
+ /* > 1400 px */
+ @media only screen and (min-width: 1400px){
+   
+    .desktopheard {
+        display: block;
+       }
+       .mobileVisible {
+        display: none;
+       }
+ }
+
+.mobilehead-main{
+    width: 100%;
+    justify-content: flex-start;
+    flex-direction: row;
+    display: flex;
+    margin-top: -22px;
+    padding: 12px;
+}
+  .mobilehead-right{
+    display: flex;
+    /* align-self: flex-end; */
+    margin-left: auto;
+    margin-right: 10px;
+    margin-top: 10px;
+  }
+
+  .headingg{
+    color: yellow;
+    margin-top: 74px;
+    text-align: center;
+  }
+  .ant-anchor{
+      color: white !important;
+  }
+  .ant-drawer .ant-drawer-content{
+      background-color: black;
+  }
+  .ant-drawer-close{
+      color: white !important;
+  }
+  .ant-anchor-link-title .mobile-drawer-textcolor{
+    color: white !important;
+    }
+   
